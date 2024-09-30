@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "e54c4e50-b4e0-4c8c-aa83-15d3f4094494"
+      }
+    },
+    "android": {
+      "package": "com.purple.purplerider"
+    }
+  }
+}
