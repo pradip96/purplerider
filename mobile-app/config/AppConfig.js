@@ -1,7 +1,7 @@
 module.exports.AppConfig = {
-    app_name: 'Purple Rider', 
-    app_description: 'Purple Rider', 
-    app_identifier: 'com.purple.purplerider', 
+    app_name: 'purplerider', 
+    app_description: 'Purple Description', 
+    app_identifier: 'com.purplerider.purplerider', 
     ios_app_version: '1.0.0', 
     android_app_version: 100, 
     expo_owner: 'purplerider123',
