@@ -1,0 +1,19 @@
+{
+	"app_name": "Purple Rider",
+	"app_description": "Purple Rider",
+	"app_identifier": "com.purple.purplerider",
+	"ios_app_version": "1.0.0",
+	"android_app_version": "100",
+	"firebaseProjectId": "purple-rider",
+	"googleApiKeys": {
+		"ios": "AIzaSyCtyCslm1aoftz6vYzutQeOCcuBsbL55OY",
+		"android": "AIzaSyCtyCslm1aoftz6vYzutQeOCcuBsbL55OY",
+		"web": "AIzaSyCtyCslm1aoftz6vYzutQeOCcuBsbL55OY",
+		"server": "AIzaSyCtyCslm1aoftz6vYzutQeOCcuBsbL55OY"
+	},
+	"expo_owner": "purplerider123",
+	"expo_slug": "purple-rider",
+	"expo_project_id": "518a8155-b9a5-4474-89a2-10a1fb86fc64",
+	"admin_email": "info@careeraid.in",
+	"purchase_code": "92d836a2-bcaf-45a4-92db-ec5d7c9ebf16"
+}
