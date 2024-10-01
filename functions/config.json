@@ -6,10 +6,10 @@
 	"android_app_version": "100",
 	"firebaseProjectId": "purple-rider",
 	"googleApiKeys": {
-		"ios": "AIzaSyCtyCslm1aoftz6vYzutQeOCcuBsbL55OY",
-		"android": "AIzaSyCtyCslm1aoftz6vYzutQeOCcuBsbL55OY",
-		"web": "AIzaSyCtyCslm1aoftz6vYzutQeOCcuBsbL55OY",
-		"server": "AIzaSyCtyCslm1aoftz6vYzutQeOCcuBsbL55OY"
+		"ios": "AIzaSyCtP22jxlUpcQoZ8bwIR9bPwC3YAYGrXTM",
+		"android": "AIzaSyDZj-KLjHpTFw2P07c26-SHUEqvvG_JWRo",
+		"web": "AIzaSyByaNBk7_hiniwRdCsKsMtUt9WTQzOxqLc",
+		"server": "AIzaSyDkZnhxaUsY1KOyFdjXaL-1sK_qZRWXYTU"
 	},
 	"expo_owner": "purplerider123",
 	"expo_slug": "purple-rider",
