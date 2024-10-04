@@ -1,12 +1,5 @@
 {
-  "projects": {
-    "default": "purple-rider"
-  },
-  "targets": {},
-  "etags": {
-    "purple-rider": {
-      "extensionInstances": {}
+    "projects": {
+        "default": "purple-rider"
     }
-  },
-  "dataconnectEmulatorConfig": {}
 }
